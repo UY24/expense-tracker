@@ -27,26 +27,6 @@ const useStyles = makeStyles((theme) => ({
   button: {
     marginLeft: "auto",
   },
-  summary: {
-    marginTop: "30px",
-  },
-  income: {
-    color: "#4CAF50",
-  },
-  expense: {
-    color: "#F44336",
-  },
-  netIncome: {
-    fontWeight: "bold",
-  },
-  positive: {
-    color: "#4CAF50",
-    fontWeight: "bold",
-  },
-  negative: {
-    color: "#F44336",
-    fontWeight: "bold",
-  },
 }));
 
 function App() {
